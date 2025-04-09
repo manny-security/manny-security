@@ -12,7 +12,9 @@ My journey has fueled a deep drive for cybersecurity, and I am now eager to tran
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Network segmentation & VM provisioning      | <a href="https://github.com/manny-security/Home-Lab"> Home Lab</a> |
+| Active Directory domain setup     | <a href="https://github.com/manny-security/Home-Lab"> Home Lab</a> |
+
 
 
 ## Tools  
