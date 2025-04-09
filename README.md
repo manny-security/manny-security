@@ -17,6 +17,13 @@ My journey has fueled a deep drive for cybersecurity, and I am now eager to tran
 | Network segmentation & VM provisioning      | <a href="https://github.com/manny-security/Home-Lab"> Home Lab</a> |
 | Active Directory domain setup     | <a href="https://github.com/manny-security/Home-Lab"> Home Lab</a> |
 
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Advanced_Cybersecurity_Certificate-006400?&style=for-the-badge&logoColor=white" />
+</div>
 
 
 ## Tools  
@@ -62,13 +69,6 @@ My journey has fueled a deep drive for cybersecurity, and I am now eager to tran
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />  
 </div>  
 
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Advanced_Cybersecurity_Certificate-006400?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 -  <a href="https://github.com/manny-security/Home-Lab"> Home Lab</a> 
