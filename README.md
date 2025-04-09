@@ -1,5 +1,7 @@
 # Hello, I'm Emmanuel Del Valle Reyes
-<a href="www.linkedin.com/in/emmanuel-del-valle-reyes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-del-valle-reyes">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I am a determined individual with a strong interest in technology, dedicated to improving my technical skills and stepping into a security role.
 
