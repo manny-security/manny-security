@@ -38,7 +38,7 @@ My journey has fueled a deep drive for cybersecurity, and I am now eager to tran
 
 ### Security & Firewalls  
 <div>  
-    <img src="https://img.shields.io/badge/-Fortinet-EB1C24?&style=for-the-badge&logo=Fortinet&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-pfSense-1E5B8B?&style=for-the-badge&logo=pfSense&logoColor=white" />  
 </div>  
 
 ### Identity & Access Management  
