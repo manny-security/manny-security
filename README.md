@@ -14,7 +14,8 @@ My journey has fueled a deep drive for cybersecurity, and I am now eager to tran
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network segmentation & VM provisioning      | <a href="https://github.com/manny-security/Home-Lab"> Home Lab</a> |
+| Python   | <a href="https://github.com/manny-security/Python"> Python Exercises</a> |
+| Network segmentation & VM provisioning      | <a href="https://github.com/manny-security/Home-Lab"> Home Lab<a> |
 | Active Directory domain setup     | <a href="https://github.com/manny-security/Home-Lab"> Home Lab</a> |
 
 ## Certifications
@@ -22,7 +23,7 @@ My journey has fueled a deep drive for cybersecurity, and I am now eager to tran
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Advanced_Cybersecurity_Certificate-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wilbur_Wright_College_Advanced_Cybersecurity_Certificate-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
 
@@ -31,7 +32,6 @@ My journey has fueled a deep drive for cybersecurity, and I am now eager to tran
 ### Network  
 <div>  
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-NetBox-005F9E?&style=for-the-badge&logo=NetBox&logoColor=white" />  
 </div>  
 
 ### Virtualization  
